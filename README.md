@@ -1,6 +1,6 @@
 # follow-cx-builders
 
-> A weekly CX digest — curated from 16 practitioners, delivered to Notion, built to become your personal framework.
+> A weekly CX digest — curated from 16 practitioners, delivered to Notion, built to become your personal CX framework.
 
 ---
 
@@ -26,6 +26,46 @@ CX Team Leads and Managers who are:
 - Want a living framework that evolves with their experience
 
 Not for: content creators, people primarily focused on sharing insights publicly.
+
+---
+
+## How to use
+
+### Option A — Claude.ai (chat)
+
+Message Claude:
+
+```
+run the weekly CX digest
+```
+
+Claude searches the past 7 days, picks ≤10 most relevant pieces, and pushes a formatted note to your Notion CX area.
+
+### Option B — Claude Code (terminal)
+
+Install the skill once:
+
+```bash
+cd ~/.claude/skills/
+git clone https://github.com/HelloitsSina/follow-cx-builders.git
+```
+
+Then in any Claude Code session:
+
+```
+run the weekly CX digest
+```
+
+or invoke directly:
+
+```
+/follow-cx-builders
+```
+
+### Requirements
+
+- Claude connected to your Notion workspace
+- A CX area in your Notion where digests will be pushed
 
 ---
 
@@ -71,44 +111,33 @@ Curated across 5 strategic pillars for a CX Manager role:
 
 ---
 
-## The Weekly Digest
+## The Weekly Digest Format
 
-Every week: ≤10 fresh reads from the 16 experts, curated for a CX Manager lens, pushed directly to Notion.
+Each digest contains ≤10 items. Every item includes:
 
-Each item includes:
-- **Who** the expert is (one sentence, plain English)
-- **What** they said (jargon explained inline)
-- **Why it matters** for someone managing a CX team
-- **One question** to sit with
+- **Who** — one sentence on who this expert is
+- **What** — what they said, jargon explained in plain English
+- **Why it matters for you** — framed for a CX Team Lead specifically
+- **One question to sit with** — a reflection prompt tied to real work
+- **↗ Source link** — direct link to the original
 
-**To run with Claude:** message it `run the weekly CX digest` — it will search the past 7 days, pick ≤10 most relevant pieces, and push a new note into your Notion CX area.
-
-See [docs/weekly-digest.md](docs/weekly-digest.md) for the prompt template and manual instructions.
+Ends with: one "this week's one thing" recommendation + one reflection prompt across all items.
 
 ---
 
 ## The Framework
 
-After working through the digest, five strategic questions to answer for yourself:
+After working through the digests, five strategic questions to answer for yourself:
 
 ```
-1. CONSISTENCY
-   What does "good" look like reliably, not occasionally?
-
-2. EMOTION & TENSION
-   How does your team handle the hard human moments?
-
-3. SCALE & SYSTEMS
-   What breaks first when your team grows?
-
-4. VOICE → ACTION
-   How does customer feedback become change?
-
-5. PEOPLE & CULTURE
-   What are you doing for the people doing the work?
+1. CONSISTENCY       What does "good" look like reliably, not occasionally?
+2. EMOTION & TENSION How does your team handle the hard human moments?
+3. SCALE & SYSTEMS   What breaks first when your team grows?
+4. VOICE → ACTION    How does customer feedback become change?
+5. PEOPLE & CULTURE  What are you doing for the people doing the work?
 ```
 
-Your answers to these — built from real reflections, not theory — are your CX operating principle.
+Your answers — built from real reflections, not theory — are your CX operating principle.
 
 ---
 
@@ -116,13 +145,14 @@ Your answers to these — built from real reflections, not theory — are your C
 
 ```
 follow-cx-builders/
-├── README.md
+├── README.md                    ← you are here
+├── SKILL.md                     ← Claude Code skill definition
 ├── docs/
 │   ├── conversation-log.md     ← full build log of this project
-│   ├── weekly-digest.md        ← running the weekly digest + prompt template
-│   └── framework-guide.md      ← building your CX framework
+│   ├── weekly-digest.md        ← digest format + prompt template
+│   └── framework-guide.md      ← building your personal CX framework
 ├── examples/
-│   ├── sample-entries.md       ← example filled-in digest entries
+│   ├── sample-entries.md       ← example filled-in reflections
 │   └── sample-framework.md     ← example synthesised framework
 └── .github/
     └── workflows/
