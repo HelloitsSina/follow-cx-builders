@@ -1,6 +1,6 @@
 # follow-cx-builders
 
-> A weekly CX digest — curated from 16 practitioners, delivered to Notion, built to become your personal CX framework.
+> A weekly CX digest — curated from 18 practitioners, delivered to Notion, built to become your personal CX framework.
 
 ---
 
@@ -8,7 +8,7 @@
 
 Most CX learning looks like this: save an article, forget it. Follow an expert, scroll past their posts. Attend a webinar, take no action.
 
-`follow-cx-builders` is different. Every week, ≤10 fresh reads from the 16 experts land in your Notion workspace — curated, contextualised, and ready to read. Each item comes with three reflection prompts:
+`follow-cx-builders` is different. Every week, ≤10 fresh reads from the 18 experts land in your Notion workspace — curated, contextualised, and ready to read. Each item comes with three reflection prompts:
 
 - **My Take** — do I agree? what would I add or push back on?
 - **Apply to my work** — what does this mean for my team right now?
@@ -69,45 +69,49 @@ or invoke directly:
 
 ---
 
-## The 16 Experts
+## The 18 Experts
 
-Curated across 5 strategic pillars for a CX Manager role:
+Curated across 5 strategic pillars for a CX Manager role.
 
 ### Pillar 1 — Consistency
-| Expert | Focus | Source |
-|--------|-------|--------|
-| Shep Hyken | Service culture · "Amazing" CX | [hyken.com](https://hyken.com) |
-| Jeff Toister | Conversations · Team training | [toister.com](https://www.toister.com/blog) |
-| Lisa Stoner | Operational efficiency at scale | [LinkedIn](https://www.linkedin.com/in/lisastonercx/) |
+| Expert | Focus | Base | Source |
+|--------|-------|------|--------|
+| Shep Hyken | Service culture · "Amazing" CX | 🇺🇸 USA | [hyken.com](https://hyken.com) |
+| Jeff Toister | Conversations · Team training | 🇺🇸 USA | [toister.com](https://www.toister.com/blog) |
+| Lisa Stoner | Operational efficiency at scale | 🇺🇸 USA | [LinkedIn](https://www.linkedin.com/in/lisastonercx/) |
+| **Jaquie Scammell** | Service culture · EX → CX · 5D framework | 🇦🇺 **Australia** | [jaquiescammell.com](https://jaquiescammell.com) |
 
 ### Pillar 2 — Emotion & Tension
-| Expert | Focus | Source |
-|--------|-------|--------|
-| Chris Voss | FBI negotiation · Difficult conversations | [MasterClass](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation) |
-| Celeste Headlee | Listening · Presence | [celesteheadlee.com](https://www.celesteheadlee.com/talks) |
-| Vanessa Van Edwards | Reading people · Rapport | [scienceofpeople.com](https://www.scienceofpeople.com/communication/) |
-| Nate Brown | Empathy · Experience design | [LinkedIn](https://www.linkedin.com/in/nate-brown-cx/) |
+| Expert | Focus | Base | Source |
+|--------|-------|------|--------|
+| Chris Voss | FBI negotiation · Difficult conversations | 🇺🇸 USA | [MasterClass](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation) |
+| Celeste Headlee | Listening · Presence | 🇺🇸 USA | [celesteheadlee.com](https://www.celesteheadlee.com/talks) |
+| Vanessa Van Edwards | Reading people · Rapport | 🇺🇸 USA | [scienceofpeople.com](https://www.scienceofpeople.com/communication/) |
+| Nate Brown | Empathy · Experience design | 🇺🇸 USA | [LinkedIn](https://www.linkedin.com/in/nate-brown-cx/) |
 
 ### Pillar 3 — Scale & Systems
-| Expert | Focus | Source |
-|--------|-------|--------|
-| Daphne Costa Lopes | SaaS scale · Process design | [LinkedIn](https://www.linkedin.com/in/daphnecostalopescsm/) |
-| Justin Chappell | Playbooks · Support org design | [LinkedIn](https://www.linkedin.com/in/justinchappell/) |
-| Carly Agar | Ticket deflection · Proactive support | [LinkedIn](https://www.linkedin.com/in/carlyagar/) |
+| Expert | Focus | Base | Source |
+|--------|-------|------|--------|
+| Daphne Costa Lopes | SaaS scale · Process design | 🇺🇸 USA | [LinkedIn](https://www.linkedin.com/in/daphnecostalopescsm/) |
+| Justin Chappell | Playbooks · Support org design | 🇺🇸 USA | [LinkedIn](https://www.linkedin.com/in/justinchappell/) |
+| Carly Agar | Ticket deflection · Proactive support | 🇺🇸 USA | [LinkedIn](https://www.linkedin.com/in/carlyagar/) |
+| **Justin Tippett** | Contact centre ops · ANZ benchmarking | 🇦🇺 **Australia** | [acxpa.com.au](https://acxpa.com.au) · [LinkedIn](https://www.linkedin.com/in/justintippett/) |
 
 ### Pillar 4 — Voice → Action
-| Expert | Focus | Source |
-|--------|-------|--------|
-| Adrian Swinscoe | VoC → Action · Punk CX | [adrianswinscoe.com](https://adrianswinscoe.com) |
-| Dan Gingiss | Remarkable experiences · CX cases | [dangingiss.com](https://dangingiss.com/blog/) |
-| Bill Quiseng | Sharp service insights | [billquiseng.com](https://billquiseng.com/blog/) |
+| Expert | Focus | Base | Source |
+|--------|-------|------|--------|
+| Adrian Swinscoe | VoC → Action · Punk CX | 🇬🇧 UK | [adrianswinscoe.com](https://adrianswinscoe.com) |
+| Dan Gingiss | Remarkable experiences · CX cases | 🇺🇸 USA | [dangingiss.com](https://dangingiss.com/blog/) |
+| Bill Quiseng | Sharp service insights | 🇺🇸 USA | [billquiseng.com](https://billquiseng.com/blog/) |
 
 ### Pillar 5 — People & Culture
-| Expert | Focus | Source |
-|--------|-------|--------|
-| Adam Topore | Frontline agent coaching | [LinkedIn](https://www.linkedin.com/in/adamtopore/) |
-| Gadi Shamia | AI & automation in support | [LinkedIn](https://www.linkedin.com/in/gadishamia/) |
-| Anika Zubair | Career growth · Systems thinking | [LinkedIn](https://www.linkedin.com/in/anika-zubair/) |
+| Expert | Focus | Base | Source |
+|--------|-------|------|--------|
+| Adam Topore | Frontline agent coaching | 🇺🇸 USA | [LinkedIn](https://www.linkedin.com/in/adamtopore/) |
+| Gadi Shamia | AI & automation in support | 🇺🇸 USA | [LinkedIn](https://www.linkedin.com/in/gadishamia/) |
+| Anika Zubair | Career growth · Systems thinking | 🇺🇸 USA | [LinkedIn](https://www.linkedin.com/in/anika-zubair/) |
+
+> 🇦🇺 **Australia-based experts** are highlighted in bold — their work is grounded in the ANZ market context, regulatory environment, and organisational culture.
 
 ---
 
@@ -175,7 +179,7 @@ The differentiator isn't what you read. It's **My Take**.
 ## Contributing
 
 If you're a CX practitioner and want to:
-- Add an expert to the list (with rationale)
+- Add an expert to the list (with rationale and base location)
 - Share a sample framework or entries
 - Suggest a new pillar or reframe an existing one
 
